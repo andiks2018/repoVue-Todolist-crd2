@@ -13,4 +13,5 @@ Berikut link [Youtube Nusendra.com](https://www.youtube.com/watch?v=DFvX0YzQ_2g)
 
 `npm run dev`
 
+catatan : mounted dan save tolocal storage disimpan tereakhir aja.
 Syntak buat belajar markdown Klik [ini](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
